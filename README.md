@@ -1,5 +1,6 @@
-# Me every morning in a nutshell
-![Standup meeting](https://github.com/zushenyan/zushenyan/blob/master/standup_meeting.jpeg)
+Thanks for visisting! Here is a kawaii face for you!
+
+(◕‿◕✿)
 
 <!--
 **zushenyan/zushenyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
