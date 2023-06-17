@@ -1,6 +1,4 @@
-Thanks for visisting! Here is a kawaii face for you!
-
-(◕‿◕✿)
+Here is a front page of a developer who constantly gets wrecked by his buggy code.
 
 <!--
 **zushenyan/zushenyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
