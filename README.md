@@ -1,6 +1,6 @@
 Here is a front page of a developer who constantly gets wrecked by his buggy code.
 
-![](./crying.jpg | width=250)
+<img src="https://github.com/zushenyan/zushenyan/blob/master/crying.jpg" width="33%">
 
 <!--
 **zushenyan/zushenyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
