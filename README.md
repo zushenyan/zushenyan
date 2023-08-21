@@ -4,4 +4,4 @@ Here is a front page of a developer who constantly gets wrecked by his buggy cod
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zushenyan&layout=compact)
 
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zushenyan)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zushenyan)](https://github.com/zushenyan/github-readme-stats)
