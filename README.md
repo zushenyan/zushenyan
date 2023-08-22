@@ -1,4 +1,4 @@
-Here is the front page of a developer who constantly gets wrecked by his buggy code.
+Here is a front page of a developer who constantly gets wrecked by his buggy code.
 
 <p align="center">
   <img src="https://github.com/zushenyan/zushenyan/blob/master/crying.jpg" width="33%">
